@@ -1,3 +1,5 @@
 unit,description
 DUNIT,5 Minutes
 TUNIT,30 Minutes
+DREGION,5 Minutes
+TREGION,30 Minutes
