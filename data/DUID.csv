@@ -1,391 +1,391 @@
-DUID,Station Name,Region,Fuel Source - Descriptor
-BAPS,Banimboola Power Station,VIC1,Water
-BARRON-1,Barron Gorge Power Station,QLD1,Water
-BARRON-2,Barron Gorge Power Station,QLD1,Water
-BASTYAN,Bastyan Power Station,TAS1,Water
-BDONGHYD,Burrendong Hydro Power Station,NSW1,Water
-BLOWERNG,Blowering Power Station,NSW1,Water
-BROWNMT,Brown Mountain Hydro Power Station,NSW1,Water
-BURRIN,Burrinjuck Hydro Power Station,NSW1,Water
-BUTLERSG,Butlers Gorge Power Station,TAS1,Water
-CETHANA,Cethana Power Station,TAS1,Water
-CLOVER,Clover Power Station,VIC1,Water
-CLUNY,Cluny Power Station,TAS1,Water
-COPTNHYD,Copeton Hydro Power Station,NSW1,Water
-DARTM1,Dartmouth Power Station,VIC1,Water
-DEVILS_G,Devils Gate Power Station,TAS1,Water
-EILDON1,Eildon Power Station,VIC1,Water
-EILDON2,Eildon Power Station,VIC1,Water
-EILDON3,Eildon Power Station,VIC1,Water
-FISHER,Fisher Power Station,TAS1,Water
-GLBWNHYD,Glenbawn Hydro Power Station,NSW1,Water
-GLENMAG1,Glenmaggie Hydro Power Station,VIC1,Water
-GORDON,Gordon Power Station,TAS1,Water
-GUTHEGA,Guthega Power Station,NSW1,Water
-HLMSEW01,South East Water - Halllam Hydro Plant,VIC1,Water
-HUMENSW,Hume (NSW) Hydro Power Station,NSW1,Water
-HUMEV,Hume (Vic) Hydro Power Station,VIC1,Water
-JBUTTERS,John Butters Power Station,TAS1,Water
-JNDABNE1,Jindabyne Small Hydro Power Station,NSW1,Water
-JOUNAMA1,Jounama Small Hydro Power Station,NSW1,Water
-KAREEYA1,Kareeya Power Station,QLD1,Water
-KAREEYA2,Kareeya Power Station,QLD1,Water
-KAREEYA3,Kareeya Power Station,QLD1,Water
-KAREEYA4,Kareeya Power Station,QLD1,Water
-KAREEYA5,Kareeya Power Station,QLD1,Water
-KEEPIT,Keepit Hydro Power Station,NSW1,Water
-LEM_WIL,Lemonthyme / Wilmot Power Station,TAS1,Water
-LI_WY_CA,Catagunya / Liapootah / Wayatinah Power Station,TAS1,Water
-LK_ECHO,Lake Echo Power Station,TAS1,Water
-MACKNTSH,Mackintosh Power Station,TAS1,Water
-MCKAY1,Bogong / Mackay Power Station,VIC1,Water
-MEADOWBK,Meadowbank Power Station,TAS1,Water
-MURRAY,Murray Power Station,VIC1,Water
-PALOONA,Paloona Power Station,TAS1,Water
-PINDARI,Pindari Hydro Power Station,NSW1,Water
-POAT110,Poatina Power Station,TAS1,Water
-POAT220,Poatina Power Station,TAS1,Water
-REECE1,Reece Power Station,TAS1,Water
-REECE2,Reece Power Station,TAS1,Water
-REPULSE,Repulse Power Station,TAS1,Water
-ROWALLAN,Rowallan Power Station,TAS1,Water
-RUBICON,Rubicon Mountain Streams Station,VIC1,Water
-SHGEN,Shoalhaven Power Station (Bendeela And Kangaroo Valley Power Station And Pumps),NSW1,Water
-TARRALEA,Tarraleah Power Station,TAS1,Water
-THEDROP1,The Drop Power Station,NSW1,Water
-TREVALLN,Trevallyn Power Station,TAS1,Water
-TRIBUTE,Tribute Power Station,TAS1,Water
-TUMUT3,Tumut 3 Power Station,NSW1,Water
-TUNGATIN,Tungatinah Power Station,TAS1,Water
-UPPTUMUT,Tumut Power Station,NSW1,Water
-W/HOE#1,Wivenhoe Power Station,QLD1,Water
-W/HOE#2,Wivenhoe Power Station,QLD1,Water
-WILLHOV1,William Hovell Power Station,VIC1,Water
-WIVENSH,Wivenhoe Small Hydro,QLD1,Water
-WKIEWA1,West Kiewa Power Station,VIC1,Water
-WKIEWA2,West Kiewa Power Station,VIC1,Water
-WYANGALA,Wyangala A Power Station,NSW1,Water
-WYANGALB,Wyangala B Power Station,NSW1,Water
-YWNGAHYD,Yarrawonga Hydro Power Station,VIC1,Water
-ARWF1,Ararat Wind Farm,VIC1,Wind
-BALDHWF1,Bald Hills Wind Farm,VIC1,Wind
-BLUFF1,The Bluff Wind Farm,SA1,Wind
-BOCORWF1,Boco Rock Wind Farm,NSW1,Wind
-BODWF1,Bodangora Wind Farm,NSW1,Wind
-CAPTL_WF,Capital Wind Farm,NSW1,Wind
-CATHROCK,Cathedral Rocks,SA1,Wind
-CBWF1,Coonooer Bridge Wind Farm,VIC1,Wind
-CHALLHWF,Challicum Hills Wind Farm,VIC1,Wind
-CHPSTWF1,Chepstowe Wind Farm,VIC1,Wind
-CLEMGPWF,Clements Gap Wind Farm,SA1,Wind
-CNUNDAWF,Canunda Wind Farm,SA1,Wind
-CODRNGTON,Codrington Wind Farm,VIC1,Wind
-CROOKWF2,Crookwell 2 Wind Farm,NSW1,Wind
-CROWLWF1,Crowlands Wind Farm,VIC1,Wind
-CULLRGWF,Cullerin Range Wind Farm,NSW1,Wind
-GULLRWF1,Gullen Range Wind Farm,NSW1,Wind
-GUNNING1,Gunning Wind Farm,NSW1,Wind
-HALLWF1,Hallett 1 Wind Farm,SA1,Wind
-HALLWF2,Hallett 2 Wind Farm,SA1,Wind
-HDWF1,Hornsdale Wind Farm,SA1,Wind
-HDWF2,Hornsdale Wind Farm 2,SA1,Wind
-HDWF3,Hornsdale Wind Farm 3,SA1,Wind
-HEPWIND1,Hepburn Community Wind Farm,VIC1,Wind
-HPRG1,Hornsdale Power Reserve,SA1,Wind
-HPRL1,Hornsdale Power Reserve,SA1,Wind
-KIATAWF1,Kiata Wind Farm,VIC1,Wind
-LGAPWF1,Lincoln Gap Wind Farm,SA1,Wind
-LKBONNY1,Lake Bonney Wind Farm Stage 1,SA1,Wind
-LKBONNY2,Lake Bonney Stage 2 Windfarm,SA1,Wind
-LKBONNY3,Lake Bonney Stage 3 Wind Farm,SA1,Wind
-MACARTH1,Macarthur Wind Farm,VIC1,Wind
-MAROOWF1,Maroona Wind Farm,VIC1,Wind
-MERCER01,Mt Mercer Wind Farm,VIC1,Wind
-MEWF1,Mount Emerald Wind Farm,QLD1,Wind
-MLWF1,Mortons Lane Wind Farm,VIC1,Wind
-MTGELWF1,Mt Gellibrand Wind Farm,VIC1,Wind
-MTMILLAR,Mt Millar Wind Farm,SA1,Wind
-MUSSELR1,Musselroe Wind Farm,TAS1,Wind
-MUWAWF1,Murra Warra Wind Farm,VIC1,Wind
-NBHWF1,North Brown Hill Wind Farm,SA1,Wind
-OAKLAND1,Oaklands Hill Wind Farm,VIC1,Wind
-SALTCRK1,Salt Creek Wind Farm,VIC1,Wind
-SAPHWF1,Sapphire Wind Farm,NSW1,Wind
-SNOWNTH1,Snowtown Wind Farm Stage 2 North,SA1,Wind
-SNOWSTH1,Snowtown South Wind Farm,SA1,Wind
-SNOWTWN1,Snowtown Wind Farm Units 1 And 47,SA1,Wind
-STARHLWF,Starfish Hill Wind Farm,SA1,Wind
-STWF1,Silverton Wind Farm,NSW1,Wind
-TARALGA1,Taralga Wind Farm,NSW1,Wind
-TIMWEST,Timboon West Wind Farm,VIC1,Wind
-TOORAWF,Toora Wind Farm,VIC1,Wind
-WATERLWF,Waterloo Wind Farm,SA1,Wind
-WAUBRAWF,Waubra Wind Farm,VIC1,Wind
-WGWF1,Willogoleche Wind Farm,SA1,Wind
-WHILL1,Windy Hill Wind Farm,QLD1,Wind
-WONWP,Wonthaggi Wind Farm,VIC1,Wind
-WOODLWN1,Woodlawn Wind Farm,NSW1,Wind
-WOOLNTH1,Woolnorth Studland Bay / Bluff Point Wind Farm,TAS1,Wind
-WPWF,Wattle Point Wind Farm,SA1,Wind
-WRWF1,White Rock Wind Farm,NSW1,Wind
-YAMBUKWF,Yambuk Wind Farm,VIC1,Wind
-YAWWF1,Yawong Wind Farm,VIC1,Wind
-YSWF1,Yaloak South Wind Farm,VIC1,Wind
-AGLHAL,Hallett Power Station,SA1,Natural Gas / Diesel
-AGLNOW1,West Nowra Landfill Gas Power Generation Facility,NSW1,Landfill Methane / Landfill Gas
-AGLSITA1,Agl Kemps Creek,NSW1,Landfill Methane / Landfill Gas
-AGLSOM,Somerton Power Station,VIC1,Natural Gas
-ANGAST1,Angaston Power Station,SA1,Diesel
-APPIN,Appin Power Plant,NSW1,Waste Coal Mine Gas
-BAKING1,Baking Board Solar Farm,QLD1,Solar
-BALBG1,Ballarat Battery Energy Storage System,VIC1,Grid
-BALBL1,Ballarat Battery Energy Storage System,VIC1,Grid
-BANN1,Bannerton Solar Park,VIC1,Solar
-BARCALDN,Barcaldine Power Station,QLD1,Natural Gas
-BARCSF1,Barcaldine Solar Farm,QLD1,Solar
-BBASEHOS,Ballarat Base Hospital Plant,VIC1,Natural Gas
-BBTHREE1,Bell Bay Three Power Station,TAS1,Natural Gas
-BBTHREE2,Bell Bay Three Power Station,TAS1,Natural Gas
-BBTHREE3,Bell Bay Three Power Station,TAS1,Natural Gas
-BDL01,Bairnsdale Power Station,VIC1,Natural Gas
-BDL02,Bairnsdale Power Station,VIC1,Natural Gas
-BERYLSF1,"Beryl Solar Farm, Units 1-60",NSW1,Solar
-BLNKTAS,Basslink HVDC Link,TAS1,
-BLNKVIC,Basslink HVDC Link,VIC1,
-BNGSF1,Bungala One Solar Farm,SA1,Solar
-BNGSF2,Bungala Two Solar Farm,SA1,Solar
-BOLIVAR1,SA Water Bolivar Waste Water Treatment (WWT) Plant,SA1,Sewerage / Waste Water
-BPLANDF1,Browns Plains Landfill Gas PS,QLD1,Landfill Methane / Landfill Gas
-BRAEMAR1,Braemar Power Station,QLD1,Coal Seam Methane
-BRAEMAR2,Braemar Power Station,QLD1,Coal Seam Methane
-BRAEMAR3,Braemar Power Station,QLD1,Coal Seam Methane
-BRAEMAR5,Braemar 2 Power Station,QLD1,Coal Seam Methane
-BRAEMAR6,Braemar 2 Power Station,QLD1,Coal Seam Methane
-BRAEMAR7,Braemar 2 Power Station,QLD1,Coal Seam Methane
-BROADMDW,Broadmeadows Landfill Gas Power Station,VIC1,Landfill Methane / Landfill Gas
-BROKENH1,Broken Hill Solar Plant,NSW1,Solar
-BROOKLYN,Brooklyn LFG U1-3,VIC1,Landfill Methane / Landfill Gas
-BW01,Bayswater Power Station,NSW1,Black Coal
-BW02,Bayswater Power Station,NSW1,Black Coal
-BW03,Bayswater Power Station,NSW1,Black Coal
-BW04,Bayswater Power Station,NSW1,Black Coal
-BWTR1,Broadwater Power Station,NSW1,Bagasse
-CALL_A_4,Callide Power Station,QLD1,Black Coal
-CALL_B_1,Callide Power Station,QLD1,Black Coal
-CALL_B_2,Callide Power Station,QLD1,Black Coal
-CESF1,Capital East Solar Farm,NSW1,Solar
-CG1,Colongra Power Station,NSW1,Natural Gas
-CG2,Colongra Power Station,NSW1,Natural Gas
-CG3,Colongra Power Station,NSW1,Natural Gas
-CG4,Colongra Power Station,NSW1,Natural Gas
-CHILDSF1,Childers Solar Farm,QLD1,Solar
-CLARESF1,Clare Solar Farm,QLD1,Solar
-CLAYTON,Clayton Landfill Gas Power Station,VIC1,Landfill Methane / Landfill Gas
-COLEASF1,Coleambally Solar Farm,NSW1,Solar
-CONDONG1,Condong Power Station,NSW1,Bagasse
-CORIO1,Corio Landfill Gas Power Station,VIC1,Landfill Methane / Landfill Gas
-CPP_3,Callide C Nett Off,QLD1,Black Coal
-CPP_4,Callide C Nett Off,QLD1,Black Coal
-CPSA,Condamine Power Station A,QLD1,Natural Gas
-CSPVPS1,Collinsville Solar PV Power Station,QLD1,Solar
-DAANDINE,Daandine Power Station,QLD1,Coal Seam Methane
-DALNTH01,Dalrymple North Battery Energy Storage System,SA1,Grid
-DALNTHL1,Dalrymple North Battery Energy Storage System,SA1,Grid
-DAYDSF1,Daydream Solar Farm,QLD1,Solar
-DAYDSF2,Daydream Solar Farm,QLD1,Solar
-DDPS1,Darling Downs Power Station,QLD1,Natural Gas
-DDSF1,"Darling Downs Solar Farm, Units 1-44",QLD1,Solar
-DRYCGT1,Dry Creek Gas Turbine Station,SA1,Natural Gas
-DRYCGT2,Dry Creek Gas Turbine Station,SA1,Natural Gas
-DRYCGT3,Dry Creek Gas Turbine Station,SA1,Natural Gas
-EASTCRK,Eastern Creek LFG PS Units 1-4,NSW1,Landfill Methane / Landfill Gas
-EDLRGNRD,Roghan Road LFG Power Plant,QLD1,Bagasse
-EMERASF1,Emerald Solar Park,QLD1,Solar
-ER01,Eraring Power Station,NSW1,Black Coal
-ER02,Eraring Power Station,NSW1,Black Coal
-ER03,Eraring Power Station,NSW1,Black Coal
-ER04,Eraring Power Station,NSW1,Black Coal
-ERGT01,Eraring Power Station,NSW1,Diesel
-GANNBG1,Gannawarra Energy Storage System,VIC1,Grid
-GANNBL1,Gannawarra Energy Storage System,VIC1,Grid
-GANNSF1,Gannawarra Solar Farm,VIC1,Solar
-GB01,Broken Hill Gas Turbines,NSW1,Diesel
-GERMCRK,German Creek Power Station,QLD1,Waste Coal Mine Gas
-GLENNCRK,Glennies Creek Power Station,NSW1,Waste Coal Mine Gas
-GRANGEAV,Grange Avenue Landfill Gas Power Station,NSW1,Landfill Methane / Landfill Gas
-GRIFSF1,Griffith Solar Farm,NSW1,Solar
-GROSV1,Grosvenor 1 Waste Coal Mine Gas Power Station,QLD1,Waste Coal Mine Gas
-GROSV2,Grosvenor 2,QLD1,Waste Coal Mine Gas
-GSTONE1,Gladstone Power Station,QLD1,Black Coal
-GSTONE2,Gladstone Power Station,QLD1,Black Coal
-GSTONE3,Gladstone Power Station,QLD1,Black Coal
-GSTONE4,Gladstone Power Station,QLD1,Black Coal
-GSTONE5,Gladstone Power Station,QLD1,Black Coal
-GSTONE6,Gladstone Power Station,QLD1,Black Coal
-GULLRSF1,Gullen Range Solar Farm,NSW1,Solar
-HALAMRD1,Hallam Road Renewable Energy Facility,VIC1,Landfill Methane / Landfill Gas
-HAMISF1,Hamilton Solar Farm,QLD1,Solar
-HAYMSF1,Hayman Solar Farm,QLD1,Solar
-HUGSF1,Hughenden Solar Farm,QLD1,Solar
-HVGTS,Hunter Valley Gas Turbine,NSW1,Kerosene
-ICSM,ISIS Central Sugar Mill Co-generation Plant,QLD1,Bagasse
-INVICTA,Invicta Sugar Mill,QLD1,Bagasse
-JACKSGUL,Jacks Gully Landfill Gas Power Station,NSW1,Landfill Methane / Landfill Gas
-JLA01,"Jeeralang ""A"" Power Station",VIC1,Natural Gas
-JLA02,"Jeeralang ""A"" Power Station",VIC1,Natural Gas
-JLA03,"Jeeralang ""A"" Power Station",VIC1,Natural Gas
-JLA04,"Jeeralang ""A"" Power Station",VIC1,Natural Gas
-JLB01,"Jeeralang ""B"" Power Station",VIC1,Natural Gas
-JLB02,"Jeeralang ""B"" Power Station",VIC1,Natural Gas
-JLB03,"Jeeralang ""B"" Power Station",VIC1,Natural Gas
-KARSF1,Karadoc Solar Farm,VIC1,Solar
-KINCUM1,Kincumber Landfill Site,NSW1,Landfill Methane / Landfill Gas
-KPP_1,Kogan Creek Power Station,QLD1,Black Coal
-KSP1,Kidston Solar Project,QLD1,Solar
-LADBROK1,Ladbroke Grove Power Station,SA1,Natural Gas
-LADBROK2,Ladbroke Grove Power Station,SA1,Natural Gas
-LD01,Liddell Power Station,NSW1,Black Coal
-LD02,Liddell Power Station,NSW1,Black Coal
-LD03,Liddell Power Station,NSW1,Black Coal
-LD04,Liddell Power Station,NSW1,Black Coal
-LILYSF1,Lilyvale Solar Farm,QLD1,Solar
-LNGS1,Laverton North Power Station,VIC1,Natural Gas
-LNGS2,Laverton North Power Station,VIC1,Natural Gas
-LONSDALE,Lonsdale Power Station,SA1,Diesel
-LOYYB1,Loy Yang B Power Station,VIC1,Brown Coal
-LOYYB2,Loy Yang B Power Station,VIC1,Brown Coal
-LRSF1,Longreach Solar Farm,QLD1,Solar
-LUCAS2S2,Lucas Heights 2 Power Station,NSW1,Landfill Methane / Landfill Gas
-LUCASHGT,Lucas Heights 2 Power Station,NSW1,Landfill Methane / Landfill Gas
-LYA1,Loy Yang A Power Station,VIC1,Brown Coal
-LYA2,Loy Yang A Power Station,VIC1,Brown Coal
-LYA3,Loy Yang A Power Station,VIC1,Brown Coal
-LYA4,Loy Yang A Power Station,VIC1,Brown Coal
-MACKAYGT,Mackay Gas Turbine,QLD1,Diesel
-MANSLR1,Manildra solar Farm,NSW1,Solar
-MBAHNTH,Moranbah North Waste Coal Mine Gas Power Station,QLD1,Waste Coal Mine Gas
-MINTARO,Mintaro Gas Turbine Station,SA1,Natural Gas
-MLSP1,Mugga Lane Solar Park,NSW1,Solar
-MORANBAH,Moranbah Generation Project,QLD1,Coal Seam Methane
-MOREESF1,Moree Solar Farm,NSW1,Solar
-MORNW,Mornington Waste Disposal Facility,VIC1,Landfill Methane / Landfill Gas
-MORTLK11,Mortlake Power Station,VIC1,Natural Gas
-MORTLK12,Mortlake Power Station,VIC1,Natural Gas
-MP1,Mt Piper Power Station,NSW1,Black Coal
-MP2,Mt Piper Power Station,NSW1,Black Coal
-MPP_1,Millmerran Power Plant,QLD1,Black Coal
-MPP_2,Millmerran Power Plant,QLD1,Black Coal
-MSTUART1,Mt Stuart Power Station,QLD1,Kerosene
-MSTUART2,Mt Stuart Power Station,QLD1,Kerosene
-MSTUART3,Mt Stuart Power Station,QLD1,Kerosene
-NASF1,Narromine Solar Farm,NSW1,Solar
-NINEWIL1,Nine Network Willoughby Plant,NSW1,Diesel
-NPS,Newport Power Station,VIC1,Natural Gas
-NUMURSF1,Numurkah Solar Farm,VIC1,Solar
-NUMURSF2,Numurkah Solar Farm,VIC1,Solar
-NYNGAN1,Nyngan Solar Plant,NSW1,Solar
-OAKEY1,Oakey Power Station,QLD1,Natural Gas
-OAKEY1SF,Oakey 1 Solar Farm,QLD1,Solar
-OAKEY2,Oakey Power Station,QLD1,Natural Gas
-OAKY2,Oaky Creek 2,QLD1,Waste Coal Mine Gas
-OAKYCREK,Oaky Creek Power Station,QLD1,Coal Seam Methane
-OSB-AG,Osborne Power Station,SA1,Natural Gas
-PARSF1,Parkes Solar Farm,NSW1,Solar
-POR01,Port Lincoln Gas Turbine,SA1,Diesel
-POR03,Port Lincoln Gas Turbine,SA1,Diesel
-PPCCGT,Pelican Point Power Station,SA1,Natural Gas
-PTSTAN1,Pt Stanvac Power Station,SA1,Diesel
-PUMP1,Wivenhoe Power Station,QLD1,
-PUMP2,Wivenhoe Power Station,QLD1,
-QPS1,Quarantine Power Station,SA1,Natural Gas
-QPS2,Quarantine Power Station,SA1,Natural Gas
-QPS3,Quarantine Power Station,SA1,Natural Gas
-QPS4,Quarantine Power Station,SA1,Natural Gas
-QPS5,Quarantine Power Station,SA1,Natural Gas
-REMOUNT,Remount Power Station,TAS1,Landfill Methane / Landfill Gas
-ROCHEDAL,Rochedale Renewable Energy Facility,QLD1,Landfill Methane / Landfill Gas
-ROMA_7,Roma Gas Turbine Station,QLD1,Natural Gas
-ROMA_8,Roma Gas Turbine Station,QLD1,Natural Gas
-ROYALLA1,Royalla Solar Farm,NSW1,Solar
-RPCG,Rocky Point Cogeneration Plant,QLD1,Bagasse
-RRSF1,"Ross River Solar Farm, Units 1-64",QLD1,Solar
-SATGN1,Temporary Generation North,SA1,Diesel
-SATGS1,Temporary Generation South,SA1,Diesel
-SHEP1,Shepparton Wastewater Treatment Facility,VIC1,Sewerage / Waste Water
-SHPUMP,Shoalhaven Power Station (Bendeela And Kangaroo Valley Power Station And Pumps),NSW1,
-SITHE01,Smithfield Energy Facility,NSW1,Natural Gas
-SKSF1,South Keswick Solar Farm,NSW1,Solar
-SMCSF1,Sun Metals Solar Farm,QLD1,Solar
-SNOWYP,Tumut 3 Pumps,NSW1,
-SNUG1,Snuggery Power Station,SA1,Diesel
-SRSF1,Susan River Solar Farm,QLD1,Solar
-STAN-1,Stanwell Power Station,QLD1,Black Coal
-STAN-2,Stanwell Power Station,QLD1,Black Coal
-STAN-3,Stanwell Power Station,QLD1,Black Coal
-STAN-4,Stanwell Power Station,QLD1,Black Coal
-STAPYLTON1,Stapylton Renewable Energy Facility,QLD1,Landfill Methane / Landfill Gas
-STHBKTEC,Southbank Institute Of Technology Unit 1 Plant,QLD1,Diesel
-SVALE1,Springvale Landfill Gas Power Station,VIC1,Landfill Methane / Landfill Gas
-SWAN_E,Swanbank B Power Station & Swanbank E Gas Turbine,QLD1,Natural Gas
-TAHMOOR1,Tahmoor Waste Coal Mine Gas Power Station,NSW1,Waste Coal Mine Gas
-TALWA1,Tallawarra Power Station,NSW1,Natural Gas
-TARONG#1,Tarong Power Station,QLD1,Black Coal
-TARONG#2,Tarong Power Station,QLD1,Black Coal
-TARONG#3,Tarong Power Station,QLD1,Black Coal
-TARONG#4,Tarong Power Station,QLD1,Black Coal
-TATIARA1,Tataria Bordertown Plant,SA1,Diesel
-TATURA01,Tatura Biomass Generator,VIC1,Sewerage / Waste Water
-TBSF1,"Tailem Bend Solar Project 1, Units 1-54",SA1,Solar
-TERALBA,Teralba Power Station,NSW1,Waste Coal Mine Gas
-TGNSS1,Traralgon Network Support Station,VIC1,Natural Gas
-TITREE,Veolia Ti Tree Bio Reactor,QLD1,Landfill Methane / Landfill Gas
-TNPS1,Tarong North Power Station,QLD1,Black Coal
-TORRA1,Torrens Island Power Station,SA1,Natural Gas / Fuel Oil
-TORRA2,Torrens Island Power Station,SA1,Natural Gas / Fuel Oil
-TORRA3,Torrens Island Power Station,SA1,Natural Gas / Fuel Oil
-TORRA4,Torrens Island Power Station,SA1,Natural Gas / Fuel Oil
-TORRB1,Torrens Island Power Station,SA1,Natural Gas / Fuel Oil
-TORRB2,Torrens Island Power Station,SA1,Natural Gas / Fuel Oil
-TORRB3,Torrens Island Power Station,SA1,Natural Gas / Fuel Oil
-TORRB4,Torrens Island Power Station,SA1,Natural Gas / Fuel Oil
-TOWER,Tower Power Plant,NSW1,Waste Coal Mine Gas
-TVCC201,Tamar Valley Combined Cycle Power Station,TAS1,Natural Gas
-TVPP104,Bell Bay Three Power Station,TAS1,Natural Gas
-URANQ11,Uranquinty Power Station,NSW1,Natural Gas
-URANQ12,Uranquinty Power Station,NSW1,Natural Gas
-URANQ13,Uranquinty Power Station,NSW1,Natural Gas
-URANQ14,Uranquinty Power Station,NSW1,Natural Gas
-VALDORA1,Valdora Solar Farm,QLD1,Solar
-VP5,"Vales Point ""B"" Power Station",NSW1,Black Coal
-VP6,"Vales Point ""B"" Power Station",NSW1,Black Coal
-VPGS1,Valley Power Peaking Facility,VIC1,Natural Gas
-VPGS2,Valley Power Peaking Facility,VIC1,Natural Gas
-VPGS3,Valley Power Peaking Facility,VIC1,Natural Gas
-VPGS4,Valley Power Peaking Facility,VIC1,Natural Gas
-VPGS5,Valley Power Peaking Facility,VIC1,Natural Gas
-VPGS6,Valley Power Peaking Facility,VIC1,Natural Gas
-WDLNGN01,Woodlawn Bioreactor Energy Generation Station,NSW1,Landfill Methane / Landfill Gas
-WEMENSF1,"Wemen Solar Farm, Units 1-39",VIC1,Solar
-WESTCBT1,Western Suburbs League Club (Campbelltown) Plant,NSW1,Diesel
-WESTILL1,West Illawarra Leagues Club Plant,NSW1,Diesel
-WHIT1,Whitwood Road Renewable Energy Facility,QLD1,Landfill Methane / Landfill Gas
-WHITSF1,Whitsunday Solar Farm,QLD1,Solar
-WILGAPK,Wilga Park Power Station,NSW1,Coal Seam Methane
-WILGB01,Wilga Park B,NSW1,Coal Seam Methane
-WINGF1_1,Wingfield 1 Landfill Gas Power Station,SA1,Landfill Methane / Landfill Gas
-WINGF2_1,Wingfield 2 Landfill Gas Power Station,SA1,Landfill Methane / Landfill Gas
-WOLLERT1,Wollert Renewable Energy Facility,VIC1,Landfill Methane / Landfill Gas
-WOYWOY1,Woy Woy Landfill Site,NSW1,Landfill Methane / Landfill Gas
-WRSF1,White Rock Solar Farm,NSW1,Solar
-WYNDW,Wyndham Waste Disposal Facility,VIC1,Landfill Methane / Landfill Gas
-YABULU,Townsville Gas Turbine,QLD1,Natural Gas
-YABULU2,Townsville Gas Turbine,QLD1,Natural Gas
-YARWUN_1,Yarwun Power Station,QLD1,Natural Gas
-YWPS1,Yallourn 'W' Power Station,VIC1,Brown Coal
-YWPS2,Yallourn 'W' Power Station,VIC1,Brown Coal
-YWPS3,Yallourn 'W' Power Station,VIC1,Brown Coal
-YWPS4,Yallourn 'W' Power Station,VIC1,Brown Coal
-RUGBYR1,Rugby Run Solar Farm,QLD1,Solar
-HAUGHT11,Haughton Solar Farm Stage 1,QLD1,Solar
-CLERMSF1,Clermont Asset Co Pty Ltd as the Trustee for the Clermont Solar Unit Trust,QLD1,Solar
-YENDWF1,Lal Lal Wind Farms Nom Co Pty Ltd,VIC1,Wind
+Station Name,Region,Fuel Source - Descriptor,DUID
+Banimboola Power Station,VIC1,Water,BAPS
+Barron Gorge Power Station,QLD1,Water,BARRON-1
+Barron Gorge Power Station,QLD1,Water,BARRON-2
+Bastyan Power Station,TAS1,Water,BASTYAN
+Burrendong Hydro Power Station,NSW1,Water,BDONGHYD
+Blowering Power Station,NSW1,Water,BLOWERNG
+Brown Mountain Hydro Power Station,NSW1,Water,BROWNMT
+Burrinjuck Hydro Power Station,NSW1,Water,BURRIN
+Butlers Gorge Power Station,TAS1,Water,BUTLERSG
+Cethana Power Station,TAS1,Water,CETHANA
+Clover Power Station,VIC1,Water,CLOVER
+Cluny Power Station,TAS1,Water,CLUNY
+Copeton Hydro Power Station,NSW1,Water,COPTNHYD
+Dartmouth Power Station,VIC1,Water,DARTM1
+Devils Gate Power Station,TAS1,Water,DEVILS_G
+Eildon Power Station,VIC1,Water,EILDON1
+Eildon Power Station,VIC1,Water,EILDON2
+Eildon Power Station,VIC1,Water,EILDON3
+Fisher Power Station,TAS1,Water,FISHER
+Glenbawn Hydro Power Station,NSW1,Water,GLBWNHYD
+Glenmaggie Hydro Power Station,VIC1,Water,GLENMAG1
+Gordon Power Station,TAS1,Water,GORDON
+Guthega Power Station,NSW1,Water,GUTHEGA
+South East Water - Halllam Hydro Plant,VIC1,Water,HLMSEW01
+Hume (NSW) Hydro Power Station,NSW1,Water,HUMENSW
+Hume (Vic) Hydro Power Station,VIC1,Water,HUMEV
+John Butters Power Station,TAS1,Water,JBUTTERS
+Jindabyne Small Hydro Power Station,NSW1,Water,JNDABNE1
+Jounama Small Hydro Power Station,NSW1,Water,JOUNAMA1
+Kareeya Power Station,QLD1,Water,KAREEYA1
+Kareeya Power Station,QLD1,Water,KAREEYA2
+Kareeya Power Station,QLD1,Water,KAREEYA3
+Kareeya Power Station,QLD1,Water,KAREEYA4
+Kareeya Power Station,QLD1,Water,KAREEYA5
+Keepit Hydro Power Station,NSW1,Water,KEEPIT
+Lemonthyme / Wilmot Power Station,TAS1,Water,LEM_WIL
+Catagunya / Liapootah / Wayatinah Power Station,TAS1,Water,LI_WY_CA
+Lake Echo Power Station,TAS1,Water,LK_ECHO
+Mackintosh Power Station,TAS1,Water,MACKNTSH
+Bogong / Mackay Power Station,VIC1,Water,MCKAY1
+Meadowbank Power Station,TAS1,Water,MEADOWBK
+Murray Power Station,VIC1,Water,MURRAY
+Paloona Power Station,TAS1,Water,PALOONA
+Pindari Hydro Power Station,NSW1,Water,PINDARI
+Poatina Power Station,TAS1,Water,POAT110
+Poatina Power Station,TAS1,Water,POAT220
+Reece Power Station,TAS1,Water,REECE1
+Reece Power Station,TAS1,Water,REECE2
+Repulse Power Station,TAS1,Water,REPULSE
+Rowallan Power Station,TAS1,Water,ROWALLAN
+Rubicon Mountain Streams Station,VIC1,Water,RUBICON
+Shoalhaven Power Station (Bendeela And Kangaroo Valley Power Station And Pumps),NSW1,Water,SHGEN
+Tarraleah Power Station,TAS1,Water,TARRALEA
+The Drop Power Station,NSW1,Water,THEDROP1
+Trevallyn Power Station,TAS1,Water,TREVALLN
+Tribute Power Station,TAS1,Water,TRIBUTE
+Tumut 3 Power Station,NSW1,Water,TUMUT3
+Tungatinah Power Station,TAS1,Water,TUNGATIN
+Tumut Power Station,NSW1,Water,UPPTUMUT
+Wivenhoe Power Station,QLD1,Water,W/HOE#1
+Wivenhoe Power Station,QLD1,Water,W/HOE#2
+William Hovell Power Station,VIC1,Water,WILLHOV1
+Wivenhoe Small Hydro,QLD1,Water,WIVENSH
+West Kiewa Power Station,VIC1,Water,WKIEWA1
+West Kiewa Power Station,VIC1,Water,WKIEWA2
+Wyangala A Power Station,NSW1,Water,WYANGALA
+Wyangala B Power Station,NSW1,Water,WYANGALB
+Yarrawonga Hydro Power Station,VIC1,Water,YWNGAHYD
+Ararat Wind Farm,VIC1,Wind,ARWF1
+Bald Hills Wind Farm,VIC1,Wind,BALDHWF1
+The Bluff Wind Farm,SA1,Wind,BLUFF1
+Boco Rock Wind Farm,NSW1,Wind,BOCORWF1
+Bodangora Wind Farm,NSW1,Wind,BODWF1
+Capital Wind Farm,NSW1,Wind,CAPTL_WF
+Cathedral Rocks,SA1,Wind,CATHROCK
+Coonooer Bridge Wind Farm,VIC1,Wind,CBWF1
+Challicum Hills Wind Farm,VIC1,Wind,CHALLHWF
+Chepstowe Wind Farm,VIC1,Wind,CHPSTWF1
+Clements Gap Wind Farm,SA1,Wind,CLEMGPWF
+Canunda Wind Farm,SA1,Wind,CNUNDAWF
+Codrington Wind Farm,VIC1,Wind,CODRNGTON
+Crookwell 2 Wind Farm,NSW1,Wind,CROOKWF2
+Crowlands Wind Farm,VIC1,Wind,CROWLWF1
+Cullerin Range Wind Farm,NSW1,Wind,CULLRGWF
+Gullen Range Wind Farm,NSW1,Wind,GULLRWF1
+Gunning Wind Farm,NSW1,Wind,GUNNING1
+Hallett 1 Wind Farm,SA1,Wind,HALLWF1
+Hallett 2 Wind Farm,SA1,Wind,HALLWF2
+Hornsdale Wind Farm,SA1,Wind,HDWF1
+Hornsdale Wind Farm 2,SA1,Wind,HDWF2
+Hornsdale Wind Farm 3,SA1,Wind,HDWF3
+Hepburn Community Wind Farm,VIC1,Wind,HEPWIND1
+Hornsdale Power Reserve,SA1,Wind,HPRG1
+Hornsdale Power Reserve,SA1,Wind,HPRL1
+Kiata Wind Farm,VIC1,Wind,KIATAWF1
+Lincoln Gap Wind Farm,SA1,Wind,LGAPWF1
+Lake Bonney Wind Farm Stage 1,SA1,Wind,LKBONNY1
+Lake Bonney Stage 2 Windfarm,SA1,Wind,LKBONNY2
+Lake Bonney Stage 3 Wind Farm,SA1,Wind,LKBONNY3
+Macarthur Wind Farm,VIC1,Wind,MACARTH1
+Maroona Wind Farm,VIC1,Wind,MAROOWF1
+Mt Mercer Wind Farm,VIC1,Wind,MERCER01
+Mount Emerald Wind Farm,QLD1,Wind,MEWF1
+Mortons Lane Wind Farm,VIC1,Wind,MLWF1
+Mt Gellibrand Wind Farm,VIC1,Wind,MTGELWF1
+Mt Millar Wind Farm,SA1,Wind,MTMILLAR
+Musselroe Wind Farm,TAS1,Wind,MUSSELR1
+Murra Warra Wind Farm,VIC1,Wind,MUWAWF1
+North Brown Hill Wind Farm,SA1,Wind,NBHWF1
+Oaklands Hill Wind Farm,VIC1,Wind,OAKLAND1
+Salt Creek Wind Farm,VIC1,Wind,SALTCRK1
+Sapphire Wind Farm,NSW1,Wind,SAPHWF1
+Snowtown Wind Farm Stage 2 North,SA1,Wind,SNOWNTH1
+Snowtown South Wind Farm,SA1,Wind,SNOWSTH1
+Snowtown Wind Farm Units 1 And 47,SA1,Wind,SNOWTWN1
+Starfish Hill Wind Farm,SA1,Wind,STARHLWF
+Silverton Wind Farm,NSW1,Wind,STWF1
+Taralga Wind Farm,NSW1,Wind,TARALGA1
+Timboon West Wind Farm,VIC1,Wind,TIMWEST
+Toora Wind Farm,VIC1,Wind,TOORAWF
+Waterloo Wind Farm,SA1,Wind,WATERLWF
+Waubra Wind Farm,VIC1,Wind,WAUBRAWF
+Willogoleche Wind Farm,SA1,Wind,WGWF1
+Windy Hill Wind Farm,QLD1,Wind,WHILL1
+Wonthaggi Wind Farm,VIC1,Wind,WONWP
+Woodlawn Wind Farm,NSW1,Wind,WOODLWN1
+Woolnorth Studland Bay / Bluff Point Wind Farm,TAS1,Wind,WOOLNTH1
+Wattle Point Wind Farm,SA1,Wind,WPWF
+White Rock Wind Farm,NSW1,Wind,WRWF1
+Yambuk Wind Farm,VIC1,Wind,YAMBUKWF
+Yawong Wind Farm,VIC1,Wind,YAWWF1
+Lal Lal Wind Farms Nom Co Pty Ltd,VIC1,Wind,YENDWF1
+Yaloak South Wind Farm,VIC1,Wind,YSWF1
+Hallett Power Station,SA1,Natural Gas / Diesel,AGLHAL
+West Nowra Landfill Gas Power Generation Facility,NSW1,Landfill Methane / Landfill Gas,AGLNOW1
+Agl Kemps Creek,NSW1,Landfill Methane / Landfill Gas,AGLSITA1
+Somerton Power Station,VIC1,Natural Gas,AGLSOM
+Angaston Power Station,SA1,Diesel,ANGAST1
+Appin Power Plant,NSW1,Waste Coal Mine Gas,APPIN
+Baking Board Solar Farm,QLD1,Solar,BAKING1
+Ballarat Battery Energy Storage System,VIC1,Grid,BALBG1
+Ballarat Battery Energy Storage System,VIC1,Grid,BALBL1
+Bannerton Solar Park,VIC1,Solar,BANN1
+Barcaldine Power Station,QLD1,Natural Gas,BARCALDN
+Barcaldine Solar Farm,QLD1,Solar,BARCSF1
+Ballarat Base Hospital Plant,VIC1,Natural Gas,BBASEHOS
+Bell Bay Three Power Station,TAS1,Natural Gas,BBTHREE1
+Bell Bay Three Power Station,TAS1,Natural Gas,BBTHREE2
+Bell Bay Three Power Station,TAS1,Natural Gas,BBTHREE3
+Bairnsdale Power Station,VIC1,Natural Gas,BDL01
+Bairnsdale Power Station,VIC1,Natural Gas,BDL02
+"Beryl Solar Farm, Units 1-60",NSW1,Solar,BERYLSF1
+Basslink HVDC Link,TAS1,,BLNKTAS
+Basslink HVDC Link,VIC1,,BLNKVIC
+Bungala One Solar Farm,SA1,Solar,BNGSF1
+Bungala Two Solar Farm,SA1,Solar,BNGSF2
+SA Water Bolivar Waste Water Treatment (WWT) Plant,SA1,Sewerage / Waste Water,BOLIVAR1
+Browns Plains Landfill Gas PS,QLD1,Landfill Methane / Landfill Gas,BPLANDF1
+Braemar Power Station,QLD1,Coal Seam Methane,BRAEMAR1
+Braemar Power Station,QLD1,Coal Seam Methane,BRAEMAR2
+Braemar Power Station,QLD1,Coal Seam Methane,BRAEMAR3
+Braemar 2 Power Station,QLD1,Coal Seam Methane,BRAEMAR5
+Braemar 2 Power Station,QLD1,Coal Seam Methane,BRAEMAR6
+Braemar 2 Power Station,QLD1,Coal Seam Methane,BRAEMAR7
+Broadmeadows Landfill Gas Power Station,VIC1,Landfill Methane / Landfill Gas,BROADMDW
+Broken Hill Solar Plant,NSW1,Solar,BROKENH1
+Brooklyn LFG U1-3,VIC1,Landfill Methane / Landfill Gas,BROOKLYN
+Bayswater Power Station,NSW1,Black Coal,BW01
+Bayswater Power Station,NSW1,Black Coal,BW02
+Bayswater Power Station,NSW1,Black Coal,BW03
+Bayswater Power Station,NSW1,Black Coal,BW04
+Broadwater Power Station,NSW1,Bagasse,BWTR1
+Callide Power Station,QLD1,Black Coal,CALL_A_4
+Callide Power Station,QLD1,Black Coal,CALL_B_1
+Callide Power Station,QLD1,Black Coal,CALL_B_2
+Capital East Solar Farm,NSW1,Solar,CESF1
+Colongra Power Station,NSW1,Natural Gas,CG1
+Colongra Power Station,NSW1,Natural Gas,CG2
+Colongra Power Station,NSW1,Natural Gas,CG3
+Colongra Power Station,NSW1,Natural Gas,CG4
+Childers Solar Farm,QLD1,Solar,CHILDSF1
+Clare Solar Farm,QLD1,Solar,CLARESF1
+Clayton Landfill Gas Power Station,VIC1,Landfill Methane / Landfill Gas,CLAYTON
+Clermont Asset Co Pty Ltd as the Trustee for the Clermont Solar Unit Trust,QLD1,Solar,CLERMSF1
+Coleambally Solar Farm,NSW1,Solar,COLEASF1
+Condong Power Station,NSW1,Bagasse,CONDONG1
+Corio Landfill Gas Power Station,VIC1,Landfill Methane / Landfill Gas,CORIO1
+Callide C Nett Off,QLD1,Black Coal,CPP_3
+Callide C Nett Off,QLD1,Black Coal,CPP_4
+Condamine Power Station A,QLD1,Natural Gas,CPSA
+Collinsville Solar PV Power Station,QLD1,Solar,CSPVPS1
+Daandine Power Station,QLD1,Coal Seam Methane,DAANDINE
+Dalrymple North Battery Energy Storage System,SA1,Grid,DALNTH01
+Dalrymple North Battery Energy Storage System,SA1,Grid,DALNTHL1
+Daydream Solar Farm,QLD1,Solar,DAYDSF1
+Daydream Solar Farm,QLD1,Solar,DAYDSF2
+Darling Downs Power Station,QLD1,Natural Gas,DDPS1
+"Darling Downs Solar Farm, Units 1-44",QLD1,Solar,DDSF1
+Dry Creek Gas Turbine Station,SA1,Natural Gas,DRYCGT1
+Dry Creek Gas Turbine Station,SA1,Natural Gas,DRYCGT2
+Dry Creek Gas Turbine Station,SA1,Natural Gas,DRYCGT3
+Eastern Creek LFG PS Units 1-4,NSW1,Landfill Methane / Landfill Gas,EASTCRK
+Roghan Road LFG Power Plant,QLD1,Bagasse,EDLRGNRD
+Emerald Solar Park,QLD1,Solar,EMERASF1
+Eraring Power Station,NSW1,Black Coal,ER01
+Eraring Power Station,NSW1,Black Coal,ER02
+Eraring Power Station,NSW1,Black Coal,ER03
+Eraring Power Station,NSW1,Black Coal,ER04
+Eraring Power Station,NSW1,Diesel,ERGT01
+Gannawarra Energy Storage System,VIC1,Grid,GANNBG1
+Gannawarra Energy Storage System,VIC1,Grid,GANNBL1
+Gannawarra Solar Farm,VIC1,Solar,GANNSF1
+Broken Hill Gas Turbines,NSW1,Diesel,GB01
+German Creek Power Station,QLD1,Waste Coal Mine Gas,GERMCRK
+Glennies Creek Power Station,NSW1,Waste Coal Mine Gas,GLENNCRK
+Grange Avenue Landfill Gas Power Station,NSW1,Landfill Methane / Landfill Gas,GRANGEAV
+Griffith Solar Farm,NSW1,Solar,GRIFSF1
+Grosvenor 1 Waste Coal Mine Gas Power Station,QLD1,Waste Coal Mine Gas,GROSV1
+Grosvenor 2,QLD1,Waste Coal Mine Gas,GROSV2
+Gladstone Power Station,QLD1,Black Coal,GSTONE1
+Gladstone Power Station,QLD1,Black Coal,GSTONE2
+Gladstone Power Station,QLD1,Black Coal,GSTONE3
+Gladstone Power Station,QLD1,Black Coal,GSTONE4
+Gladstone Power Station,QLD1,Black Coal,GSTONE5
+Gladstone Power Station,QLD1,Black Coal,GSTONE6
+Gullen Range Solar Farm,NSW1,Solar,GULLRSF1
+Hallam Road Renewable Energy Facility,VIC1,Landfill Methane / Landfill Gas,HALAMRD1
+Hamilton Solar Farm,QLD1,Solar,HAMISF1
+Haughton Solar Farm Stage 1,QLD1,Solar,HAUGHT11
+Hayman Solar Farm,QLD1,Solar,HAYMSF1
+Hughenden Solar Farm,QLD1,Solar,HUGSF1
+Hunter Valley Gas Turbine,NSW1,Kerosene,HVGTS
+ISIS Central Sugar Mill Co-generation Plant,QLD1,Bagasse,ICSM
+Invicta Sugar Mill,QLD1,Bagasse,INVICTA
+Jacks Gully Landfill Gas Power Station,NSW1,Landfill Methane / Landfill Gas,JACKSGUL
+"Jeeralang ""A"" Power Station",VIC1,Natural Gas,JLA01
+"Jeeralang ""A"" Power Station",VIC1,Natural Gas,JLA02
+"Jeeralang ""A"" Power Station",VIC1,Natural Gas,JLA03
+"Jeeralang ""A"" Power Station",VIC1,Natural Gas,JLA04
+"Jeeralang ""B"" Power Station",VIC1,Natural Gas,JLB01
+"Jeeralang ""B"" Power Station",VIC1,Natural Gas,JLB02
+"Jeeralang ""B"" Power Station",VIC1,Natural Gas,JLB03
+Karadoc Solar Farm,VIC1,Solar,KARSF1
+Kincumber Landfill Site,NSW1,Landfill Methane / Landfill Gas,KINCUM1
+Kogan Creek Power Station,QLD1,Black Coal,KPP_1
+Kidston Solar Project,QLD1,Solar,KSP1
+Ladbroke Grove Power Station,SA1,Natural Gas,LADBROK1
+Ladbroke Grove Power Station,SA1,Natural Gas,LADBROK2
+Liddell Power Station,NSW1,Black Coal,LD01
+Liddell Power Station,NSW1,Black Coal,LD02
+Liddell Power Station,NSW1,Black Coal,LD03
+Liddell Power Station,NSW1,Black Coal,LD04
+Lilyvale Solar Farm,QLD1,Solar,LILYSF1
+Laverton North Power Station,VIC1,Natural Gas,LNGS1
+Laverton North Power Station,VIC1,Natural Gas,LNGS2
+Lonsdale Power Station,SA1,Diesel,LONSDALE
+Loy Yang B Power Station,VIC1,Brown Coal,LOYYB1
+Loy Yang B Power Station,VIC1,Brown Coal,LOYYB2
+Longreach Solar Farm,QLD1,Solar,LRSF1
+Lucas Heights 2 Power Station,NSW1,Landfill Methane / Landfill Gas,LUCAS2S2
+Lucas Heights 2 Power Station,NSW1,Landfill Methane / Landfill Gas,LUCASHGT
+Loy Yang A Power Station,VIC1,Brown Coal,LYA1
+Loy Yang A Power Station,VIC1,Brown Coal,LYA2
+Loy Yang A Power Station,VIC1,Brown Coal,LYA3
+Loy Yang A Power Station,VIC1,Brown Coal,LYA4
+Mackay Gas Turbine,QLD1,Diesel,MACKAYGT
+Manildra solar Farm,NSW1,Solar,MANSLR1
+Moranbah North Waste Coal Mine Gas Power Station,QLD1,Waste Coal Mine Gas,MBAHNTH
+Mintaro Gas Turbine Station,SA1,Natural Gas,MINTARO
+Mugga Lane Solar Park,NSW1,Solar,MLSP1
+Moranbah Generation Project,QLD1,Coal Seam Methane,MORANBAH
+Moree Solar Farm,NSW1,Solar,MOREESF1
+Mornington Waste Disposal Facility,VIC1,Landfill Methane / Landfill Gas,MORNW
+Mortlake Power Station,VIC1,Natural Gas,MORTLK11
+Mortlake Power Station,VIC1,Natural Gas,MORTLK12
+Mt Piper Power Station,NSW1,Black Coal,MP1
+Mt Piper Power Station,NSW1,Black Coal,MP2
+Millmerran Power Plant,QLD1,Black Coal,MPP_1
+Millmerran Power Plant,QLD1,Black Coal,MPP_2
+Mt Stuart Power Station,QLD1,Kerosene,MSTUART1
+Mt Stuart Power Station,QLD1,Kerosene,MSTUART2
+Mt Stuart Power Station,QLD1,Kerosene,MSTUART3
+Narromine Solar Farm,NSW1,Solar,NASF1
+Nine Network Willoughby Plant,NSW1,Diesel,NINEWIL1
+Newport Power Station,VIC1,Natural Gas,NPS
+Numurkah Solar Farm,VIC1,Solar,NUMURSF1
+Numurkah Solar Farm,VIC1,Solar,NUMURSF2
+Nyngan Solar Plant,NSW1,Solar,NYNGAN1
+Oakey Power Station,QLD1,Natural Gas,OAKEY1
+Oakey 1 Solar Farm,QLD1,Solar,OAKEY1SF
+Oakey Power Station,QLD1,Natural Gas,OAKEY2
+Oaky Creek 2,QLD1,Waste Coal Mine Gas,OAKY2
+Oaky Creek Power Station,QLD1,Coal Seam Methane,OAKYCREK
+Osborne Power Station,SA1,Natural Gas,OSB-AG
+Parkes Solar Farm,NSW1,Solar,PARSF1
+Port Lincoln Gas Turbine,SA1,Diesel,POR01
+Port Lincoln Gas Turbine,SA1,Diesel,POR03
+Pelican Point Power Station,SA1,Natural Gas,PPCCGT
+Pt Stanvac Power Station,SA1,Diesel,PTSTAN1
+Wivenhoe Power Station,QLD1,,PUMP1
+Wivenhoe Power Station,QLD1,,PUMP2
+Quarantine Power Station,SA1,Natural Gas,QPS1
+Quarantine Power Station,SA1,Natural Gas,QPS2
+Quarantine Power Station,SA1,Natural Gas,QPS3
+Quarantine Power Station,SA1,Natural Gas,QPS4
+Quarantine Power Station,SA1,Natural Gas,QPS5
+Remount Power Station,TAS1,Landfill Methane / Landfill Gas,REMOUNT
+Rochedale Renewable Energy Facility,QLD1,Landfill Methane / Landfill Gas,ROCHEDAL
+Roma Gas Turbine Station,QLD1,Natural Gas,ROMA_7
+Roma Gas Turbine Station,QLD1,Natural Gas,ROMA_8
+Royalla Solar Farm,NSW1,Solar,ROYALLA1
+Rocky Point Cogeneration Plant,QLD1,Bagasse,RPCG
+"Ross River Solar Farm, Units 1-64",QLD1,Solar,RRSF1
+Rugby Run Solar Farm,QLD1,Solar,RUGBYR1
+Temporary Generation North,SA1,Diesel,SATGN1
+Temporary Generation South,SA1,Diesel,SATGS1
+Shepparton Wastewater Treatment Facility,VIC1,Sewerage / Waste Water,SHEP1
+Shoalhaven Power Station (Bendeela And Kangaroo Valley Power Station And Pumps),NSW1,,SHPUMP
+Smithfield Energy Facility,NSW1,Natural Gas,SITHE01
+South Keswick Solar Farm,NSW1,Solar,SKSF1
+Sun Metals Solar Farm,QLD1,Solar,SMCSF1
+Tumut 3 Pumps,NSW1,,SNOWYP
+Snuggery Power Station,SA1,Diesel,SNUG1
+Susan River Solar Farm,QLD1,Solar,SRSF1
+Stanwell Power Station,QLD1,Black Coal,STAN-1
+Stanwell Power Station,QLD1,Black Coal,STAN-2
+Stanwell Power Station,QLD1,Black Coal,STAN-3
+Stanwell Power Station,QLD1,Black Coal,STAN-4
+Stapylton Renewable Energy Facility,QLD1,Landfill Methane / Landfill Gas,STAPYLTON1
+Southbank Institute Of Technology Unit 1 Plant,QLD1,Diesel,STHBKTEC
+Springvale Landfill Gas Power Station,VIC1,Landfill Methane / Landfill Gas,SVALE1
+Swanbank B Power Station & Swanbank E Gas Turbine,QLD1,Natural Gas,SWAN_E
+Tahmoor Waste Coal Mine Gas Power Station,NSW1,Waste Coal Mine Gas,TAHMOOR1
+Tallawarra Power Station,NSW1,Natural Gas,TALWA1
+Tarong Power Station,QLD1,Black Coal,TARONG#1
+Tarong Power Station,QLD1,Black Coal,TARONG#2
+Tarong Power Station,QLD1,Black Coal,TARONG#3
+Tarong Power Station,QLD1,Black Coal,TARONG#4
+Tataria Bordertown Plant,SA1,Diesel,TATIARA1
+Tatura Biomass Generator,VIC1,Sewerage / Waste Water,TATURA01
+"Tailem Bend Solar Project 1, Units 1-54",SA1,Solar,TBSF1
+Teralba Power Station,NSW1,Waste Coal Mine Gas,TERALBA
+Traralgon Network Support Station,VIC1,Natural Gas,TGNSS1
+Veolia Ti Tree Bio Reactor,QLD1,Landfill Methane / Landfill Gas,TITREE
+Tarong North Power Station,QLD1,Black Coal,TNPS1
+Torrens Island Power Station,SA1,Natural Gas / Fuel Oil,TORRA1
+Torrens Island Power Station,SA1,Natural Gas / Fuel Oil,TORRA2
+Torrens Island Power Station,SA1,Natural Gas / Fuel Oil,TORRA3
+Torrens Island Power Station,SA1,Natural Gas / Fuel Oil,TORRA4
+Torrens Island Power Station,SA1,Natural Gas / Fuel Oil,TORRB1
+Torrens Island Power Station,SA1,Natural Gas / Fuel Oil,TORRB2
+Torrens Island Power Station,SA1,Natural Gas / Fuel Oil,TORRB3
+Torrens Island Power Station,SA1,Natural Gas / Fuel Oil,TORRB4
+Tower Power Plant,NSW1,Waste Coal Mine Gas,TOWER
+Tamar Valley Combined Cycle Power Station,TAS1,Natural Gas,TVCC201
+Bell Bay Three Power Station,TAS1,Natural Gas,TVPP104
+Uranquinty Power Station,NSW1,Natural Gas,URANQ11
+Uranquinty Power Station,NSW1,Natural Gas,URANQ12
+Uranquinty Power Station,NSW1,Natural Gas,URANQ13
+Uranquinty Power Station,NSW1,Natural Gas,URANQ14
+Valdora Solar Farm,QLD1,Solar,VALDORA1
+"Vales Point ""B"" Power Station",NSW1,Black Coal,VP5
+"Vales Point ""B"" Power Station",NSW1,Black Coal,VP6
+Valley Power Peaking Facility,VIC1,Natural Gas,VPGS1
+Valley Power Peaking Facility,VIC1,Natural Gas,VPGS2
+Valley Power Peaking Facility,VIC1,Natural Gas,VPGS3
+Valley Power Peaking Facility,VIC1,Natural Gas,VPGS4
+Valley Power Peaking Facility,VIC1,Natural Gas,VPGS5
+Valley Power Peaking Facility,VIC1,Natural Gas,VPGS6
+Woodlawn Bioreactor Energy Generation Station,NSW1,Landfill Methane / Landfill Gas,WDLNGN01
+"Wemen Solar Farm, Units 1-39",VIC1,Solar,WEMENSF1
+Western Suburbs League Club (Campbelltown) Plant,NSW1,Diesel,WESTCBT1
+West Illawarra Leagues Club Plant,NSW1,Diesel,WESTILL1
+Whitwood Road Renewable Energy Facility,QLD1,Landfill Methane / Landfill Gas,WHIT1
+Whitsunday Solar Farm,QLD1,Solar,WHITSF1
+Wilga Park Power Station,NSW1,Coal Seam Methane,WILGAPK
+Wilga Park B,NSW1,Coal Seam Methane,WILGB01
+Wingfield 1 Landfill Gas Power Station,SA1,Landfill Methane / Landfill Gas,WINGF1_1
+Wingfield 2 Landfill Gas Power Station,SA1,Landfill Methane / Landfill Gas,WINGF2_1
+Wollert Renewable Energy Facility,VIC1,Landfill Methane / Landfill Gas,WOLLERT1
+Woy Woy Landfill Site,NSW1,Landfill Methane / Landfill Gas,WOYWOY1
+White Rock Solar Farm,NSW1,Solar,WRSF1
+Wyndham Waste Disposal Facility,VIC1,Landfill Methane / Landfill Gas,WYNDW
+Townsville Gas Turbine,QLD1,Natural Gas,YABULU
+Townsville Gas Turbine,QLD1,Natural Gas,YABULU2
+Yarwun Power Station,QLD1,Natural Gas,YARWUN_1
+Yallourn 'W' Power Station,VIC1,Brown Coal,YWPS1
+Yallourn 'W' Power Station,VIC1,Brown Coal,YWPS2
+Yallourn 'W' Power Station,VIC1,Brown Coal,YWPS3
+Yallourn 'W' Power Station,VIC1,Brown Coal,YWPS4
