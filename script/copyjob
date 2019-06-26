@@ -1,0 +1,38 @@
+import re
+from urllib.request import urlopen
+url = "http://nemweb.com.au/Reports/Current/Daily_Reports/"
+result = urlopen(url).read().decode('utf-8')
+pattern = re.compile(r'[\w.]*.zip')
+filelist = pattern.findall(result)
+print(filelist)
+
+from azure.storage.blob import BlockBlobService
+block_blob_service = BlockBlobService(account_name='xxxxxxxxxxx',
+                                      account_key='xxxxxxxxxxx')
+top_level_container_name ='yyyyyyyyy'
+generator = block_blob_service.list_blobs(top_level_container_name,prefix="current/")
+filelist_azure=[]
+
+for blob in generator:
+    filelist_azure.append(blob.name)
+
+filelist_azure_clean=[]
+
+for x in filelist_azure:
+    filelist_azure_clean.append(x[8:52])
+
+print(filelist_azure_clean)
+
+files_to_upload = list(set(filelist)-set(filelist_azure_clean))
+
+print(files_to_upload)
+
+container_name ='yyyyyyyy/current'
+
+for x in files_to_upload:
+    block_blob_service.copy_blob(container_name,x,url+x)
+    copy_status = block_blob_service.get_blob_properties(container_name,x)
+
+    #use code below to check the copy status, if it's completed or not.
+    while(str(copy_status.properties.copy.status) != "success"):
+        copy_status = block_blob_service.get_blob_properties(container_name,x)
