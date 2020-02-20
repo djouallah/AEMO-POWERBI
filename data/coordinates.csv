@@ -1,5 +1,5 @@
 Facility Name,Station Name,Status,Region,Technology,Generator Capacity (MW),Latitude,Longitude
-Angaston,Angaston Power Station,Commissioned,South Australia,Distillate,100,-34.50394829,139.0242963
+Angaston,Angaston Power Station,Commissioned,South Australia,Diesel,100,-34.50394829,139.0242963
 Appin,Appin Power Plant,Commissioned,New South Wales,Gas,55,-34.210868,150.792711
 Ararat,Ararat Wind Farm,Commissioned,Victoria,Wind,241.59,-37.263393,143.082116
 Awaba,Awaba,Commissioned,New South Wales,Biomass,1,-33.023339,151.551228
@@ -28,7 +28,7 @@ Braemar,Braemar Power Station,Commissioned,Queensland,Gas,504,-27.11166878,150.9
 Braemar 2,Braemar 2 Power Station,Commissioned,Queensland,Gas,519,-27.10987267,150.9076533
 Broadmeadows,Broadmeadows,Commissioned,Victoria,Gas,5,-37.685081,144.966114
 Broadwater,Broadwater Power Station,Commissioned,New South Wales,Biomass,38,-29.016483,153.445756
-Broken Hill,Broken Hill Gas Turbines,Commissioned,New South Wales,Distillate,50,-31.98631319,141.42062
+Broken Hill,Broken Hill Gas Turbines,Commissioned,New South Wales,Diesel,50,-31.98631319,141.42062
 Broken Hill Solar Plant,Broken Hill Solar Plant,Commissioned,New South Wales,Solar,27,-31.988905,141.391547
 Brooklyn,Brooklyn,Commissioned,Victoria,Gas,3,-37.818597,144.828492
 Brown Mountain,Brown Mountain Hydro Power Station,Commissioned,New South Wales,Hydro,5,-36.594993,149.473997
@@ -40,35 +40,35 @@ Burrinjuck,Burrinjuck,Commissioned,New South Wales,Hydro,27,-35.00353222,148.579
 Butlers Gorge,Butlers Gorge Power Station,Commissioned,Tasmania,Hydro,15,-42.26710663,146.2621267
 Callide B,Callide Power Station,Commissioned,Queensland,Black Coal,700,-24.33316877,150.6263216
 Canunda,Canunda Wind Farm,Commissioned,South Australia,Wind,46,-37.69830278,140.3836333
-Capital,Capital East Solar Farm,Commissioned,New South Wales,Wind,140,-35.1235342,149.5002488
-Capital East,Capital East,Commissioned,New South Wales,Solar,1,-35.180684,149.546482
+Capital,Capital Wind Farm,Commissioned,New South Wales,Wind,140,-35.1235342,149.5002488
+Capital East,Capital East Solar Farm,Commissioned,New South Wales,Solar,1,-35.180684,149.546482
 Catagunya / Liapootah / Wayatinah,Catagunya / Liapootah / Wayatinah Power Station,Commissioned,Tasmania,Hydro,194,-42.37613118,146.5098241
 Cathedral Rocks,Cathedral Rocks,Commissioned,South Australia,Wind,66,-34.84874114,135.5926489
 Cethana,Cethana Power Station,Commissioned,Tasmania,Hydro,85,-41.47985179,146.134472
+Cattle Hill Wind Farm,Cattle Hill Wind Farm,Commissioned,Tasmania,Wind,144,-42.151,146.688
 Challicum Hills,Challicum Hills Wind Farm,Commissioned,Victoria,Wind,52,-37.39546597,143.1045904
-Chepstowe,Chepstowe Wind Farm,Commissioned,Victoria,Wind,6,-37.596503,143.499582
 Childers,Childers Solar Farm,Commissioned,Queensland,Solar,64,-25.295027,152.403674
 Clare,Clare Solar Farm,Commissioned,Queensland,Solar,110,-19.83977,147.21055
 Clayton,Clayton,Commissioned,Victoria,Gas,11,-37.950618,145.119681
-Clements Gap,Clements Gap Wind Farm,Commissioned,South Australia,Wind,57,-33.48977319,138.1116949
+Chepstowe,Chepstowe Wind Farm,Commissioned,Victoria,Wind,6,-37.596503,143.499582
 Clover,Clover Power Station,Commissioned,Victoria,Hydro,29,-36.78515024,147.2195169
 Cluny,Cluny Power Station,Commissioned,Tasmania,Hydro,19,-42.50622857,146.6811229
-Codrington,Codrington Wind Farm,Commissioned,Victoria,Wind,18,-38.28287469,141.9549602
+Clements Gap,Clements Gap Wind Farm,Commissioned,South Australia,Wind,57,-33.48977319,138.1116949
 Coleambally,Coleambally Solar Farm,Commissioned,New South Wales,Solar,180,-34.759494,145.92984
 Collinsville,Collinsville Solar PV Power Station,Commissioned,Queensland,Solar,42,-20.55714,147.820552
 Colongra,Colongra Power Station,Commissioned,New South Wales,Gas,724,-33.20878096,151.54354
 Condamine  A,Condamine Power Station A,Commissioned,Queensland,Gas,143,-26.66667293,150.2685812
 Condong,Condong Power Station,Commissioned,New South Wales,Gas,30,-28.314766,153.433808
+Codrington,Codrington Wind Farm,Commissioned,Victoria,Wind,18,-38.28287469,141.9549602
 Coonoer Bridge,Coonooer Bridge Wind Farm,Commissioned,Victoria,Wind,19.8,-36.472722,143.322039
-Coopers Gap,Coopers Gap Wind Farm,Commissioned,Queensland,Wind,452,-26.7170038,151.4491769
 Copeton,Copeton,Commissioned,New South Wales,Hydro,22.5,-29.907544,150.930235
 Corio,Corio,Commissioned,Victoria,Gas,1,-38.059048,144.404905
+Coopers Gap,Coopers Gap Wind Farm,Commissioned,Queensland,Wind,452,-26.7170038,151.4491769
 Crookwell,Crookwell,Commissioned,New South Wales,Wind,4.8,-34.5165,149.54248
 Crookwell 2,Crookwell 2 Wind Farm,Commissioned,New South Wales,Wind,96,-34.547676,149.589254
 Crowlands,Crowlands Wind Farm,Commissioned,Victoria,Wind,79,-36.97615,143.097998
-Cullerin Range,Cullerin Range Wind Farm,Commissioned,New South Wales,Wind,30,-34.75099457,149.3810268
 Daandine,Daandine Power Station,Commissioned,Queensland,Gas,33,-27.08629437,150.9425277
-Dalrymple North Battery,Dalrymple North Battery,Commissioned,South Australia,Battery (Discharging),30,-34.888446,137.758114
+Dalrymple North Battery,Dalrymple North Battery Energy Storage System,Commissioned,South Australia,Battery (Discharging),30,-34.888446,137.758114
 Darling Downs,Darling Downs Power Station,Commissioned,Queensland,Gas,121,-27.11685128,150.8953913
 Darling Downs Solar Farm,"Darling Downs Solar Farm, Units 1-44",Commissioned,Queensland,Solar,121,-27.112,150.8819
 Dartmouth,Dartmouth Power Station,Commissioned,Victoria,Hydro,150,-36.55528977,147.5198723
@@ -92,27 +92,27 @@ Glennies Creek,Glennies Creek Power Station,Commissioned,New South Wales,Gas,12,
 Gordon,Gordon Power Station,Commissioned,Tasmania,Hydro,457,-42.74015707,145.9833753
 Grange Avenue,Grange Avenue,Commissioned,New South Wales,Gas,2,-33.713011,150.83316
 Griffith,Griffith Solar Farm,Commissioned,New South Wales,Solar,27,-34.317414,146.120739
+Cullerin Range,Cullerin Range Wind Farm,Commissioned,New South Wales,Wind,30,-34.75099457,149.3810268
 Gullen Range,Gullen Range Wind Farm,Commissioned,New South Wales,Wind,176,-34.62451156,149.4585486
-Gunning,Gunning Wind Farm,Commissioned,New South Wales,Wind,47,-34.67636075,149.6644302
 Guthega,Guthega Power Station,Commissioned,New South Wales,Hydro,60,-36.34977248,148.4140302
 Hallam,Hallam,Commissioned,Victoria,Hydro,1,-38.143332,145.119964
 Hallam Road,Hallam Road,Commissioned,Victoria,Gas,9,-38.052181,145.267798
 Hallett,Hallett Power Station,Commissioned,South Australia,Gas,180,-33.34931024,138.7526328
+Gunning,Gunning Wind Farm,Commissioned,New South Wales,Wind,47,-34.67636075,149.6644302
 Hallett 1,Hallett 1 Wind Farm,Commissioned,South Australia,Wind,95,-33.3284341,138.7046687
-Hallett 2,Hallett 2 Wind Farm,Commissioned,South Australia,Wind,71,-33.53821029,138.8572146
 Hamilton,Hamilton Solar Farm,Commissioned,Queensland,Solar,57,-20.468593,147.799484
-Hampton,Hampton,Commissioned,New South Wales,Wind,1.32,-33.649722,150.05
+Hallett 2,Hallett 2 Wind Farm,Commissioned,South Australia,Wind,71,-33.53821029,138.8572146
 Haughton SF Stage,Haughton Solar Farm Stage 1,Commissioned,Queensland,Solar,132,-19.732168,147.076137
 Hayman,Hayman Solar Farm,Commissioned,Queensland,Solar,57,-20.536162,147.846065
+Hampton,Hampton,Commissioned,New South Wales,Wind,1.32,-33.649722,150.05
 Hepburn Wind,Hepburn Wind,Commissioned,Victoria,Wind,4,-37.424555,144.115711
 Hornsdale,Hornsdale Wind Farm,Commissioned,South Australia,Wind,102,-33.05982,138.537673
 Hornsdale  2,Hornsdale Wind Farm 2,Commissioned,South Australia,Wind,102,-33.05982,138.537673
-Hornsdale  3,Hornsdale Wind Farm 3,Commissioned,South Australia,Wind,112,-33.05982,138.537673
 Hornsdale Power Reserve,Hornsdale Power Reserve,Commissioned,South Australia,Battery (Discharging),100,-33.085519,138.521914
 Hughenden,Hughenden,Commissioned,Queensland,Solar,10,-20.854794,144.186048
 Hume (NSW),Hume (NSW) Hydro Power Station,Commissioned,New South Wales,Hydro,29,-36.10638251,147.0322634
 Hume (VIC),Hume (Vic) Hydro Power Station,Commissioned,Victoria,Hydro,29,-36.106887,147.032572
-Hunter Valley,Hunter Valley Gas Turbine,Commissioned,New South Wales,Distillate,50,-32.38998919,150.9659629
+Hunter Valley,Hunter Valley Gas Turbine,Commissioned,New South Wales,Diesel,50,-32.38998919,150.9659629
 Invicta Sugar Mill,Invicta Sugar Mill,Commissioned,Queensland,Biomass,50,-19.51579031,147.1065305
 Isis Central Sugar Mill,Isis Central Sugar Mill,Commissioned,Queensland,Biomass,25,-25.197619,152.206949
 Jacks Gully,Jacks Gully,Commissioned,New South Wales,Gas,2,-34.072955,150.743691
@@ -125,12 +125,12 @@ Jounama (Mini Hydro),Jounama (Mini Hydro),Commissioned,New South Wales,Hydro,14,
 Karadoc,Karadoc Solar Farm,Commissioned,Victoria,Solar,104,-34.227904,142.28033
 Kareeya,Kareeya Power Station,Commissioned,Queensland,Hydro,91,-17.76645582,145.5768844
 Keepit,Keepit,Commissioned,New South Wales,Hydro,6,-30.87868,150.491876
-Kiata,Kiata Wind Farm,Commissioned,Victoria,Wind,31,-36.397693,141.746827
+Hornsdale  3,Hornsdale Wind Farm 3,Commissioned,South Australia,Wind,112,-33.05982,138.537673
 Kidston,Kidston Solar Project,Commissioned,Queensland,Solar,50,-18.88,144.151
 Kincumber,Kincumber,Commissioned,New South Wales,Gas,1,-33.477111,151.402603
 Kogan Creek,Kogan Creek Power Station,Commissioned,Queensland,Black Coal,744,-26.915285,150.7489475
 Ladbroke Grove,Ladbroke Grove Power Station,Commissioned,South Australia,Gas,80,-37.45618317,140.7826992
-Lake Bonney  1,Lake Bonney Wind Farm Stage 1,Commissioned,South Australia,Wind,81,-37.76050438,140.4055412
+Kiata,Kiata Wind Farm,Commissioned,Victoria,Wind,31,-36.397693,141.746827
 Lake Bonney 2,Lake Bonney Stage 2 Windfarm,Commissioned,South Australia,Wind,159,-37.76050438,140.4055412
 Lake Bonney 3,Lake Bonney Stage 3 Wind Farm,Commissioned,South Australia,Wind,39,-37.76050438,140.4055412
 Lake Echo,Lake Echo Power Station,Commissioned,Tasmania,Hydro,32,-42.25333893,146.6205148
@@ -138,45 +138,45 @@ Laverton North,Laverton North Power Station,Commissioned,Victoria,Gas,624,-37.84
 Lemonthyme / Wilmot,Lemonthyme / Wilmot Power Station,Commissioned,Tasmania,Hydro,82,-41.48313525,146.1253375
 Liddell,Liddell Power Station,Commissioned,New South Wales,Black Coal,2000,-32.36902679,150.9801122
 Lilyvale,Lilyvale Solar Farm,Commissioned,Queensland,Solar,118,-23.070504,148.413865
+Lake Bonney  1,Lake Bonney Wind Farm Stage 1,Commissioned,South Australia,Wind,81,-37.76050438,140.4055412
 Lincoln Gap,Lincoln Gap Wind Farm,Commissioned,South Australia,Wind,212.4,-32.5463326,137.5527629
-Mt Emerald,Mt Emerald,Commissioned,Queensland,Wind,180,-17.133248,145.380037
 Longreach,Longreach Solar Farm,Commissioned,Queensland,Solar,17,-23.455048,144.227917
-Lonsdale,Lonsdale,Commissioned,South Australia,Distillate,21,-35.109718,138.490962
+Lonsdale,Lonsdale Power Station,Commissioned,South Australia,Diesel,21,-35.109718,138.490962
 Loy Yang A,Loy Yang A Power Station,Commissioned,Victoria,Brown Coal,2210,-38.2506223,146.5763613
 Loy Yang B,Loy Yang B Power Station,Commissioned,Victoria,Brown Coal,1000,-38.25361918,146.5855932
 Lucas Heights 2,Lucas Heights 2 Power Station,Commissioned,New South Wales,Gas,5,-34.044088,150.972475
 Macarthur,Macarthur Wind Farm,Commissioned,Victoria,Wind,420,-38.04348284,142.1790806
-Mackay,Mackay,Commissioned,Queensland,Distillate,30,-21.14444071,149.1591707
+Mackay,Mackay Gas Turbine,Commissioned,Queensland,Diesel,30,-21.14444071,149.1591707
 Mackintosh,Mackintosh Power Station,Commissioned,Tasmania,Hydro,80,-41.701363,145.6465581
 Manildra,Manildra solar Farm,Commissioned,New South Wales,Solar,25,-33.172831,148.71824
 Maroona,Maroona Wind Farm,Commissioned,Victoria,Wind,6,-37.41875,142.82434
 Meadowbank,Meadowbank Power Station,Commissioned,Tasmania,Hydro,64,-42.6108345,146.8463877
 Midlands,Midlands,Commissioned,Tasmania,Hydro,6,-42.085747,147.274558
 Millmerran,Millmerran Power Plant,Commissioned,Queensland,Black Coal,852,-27.96165701,151.2809098
-Portland,Portland,Commissioned,Victoria,Wind,148,-38.36141715,141.3845597
+Mortons Lane,Mortons Lane Wind Farm,Commissioned,Victoria,Wind,20,-37.83318644,142.4652881
 Moranbah,Moranbah,Commissioned,Queensland,Gas,13,-21.962469,148.006004
 Moranbah North,Moranbah North Waste Coal Mine Gas Power Station,Commissioned,Queensland,Gas,63,-21.978481,148.004809
 Moree,Moree Solar Farm,Commissioned,New South Wales,Solar,57,-29.572607,149.861266
 Mortlake,Mortlake Power Station,Commissioned,Victoria,Gas,566,-38.06262783,142.6663305
-Mortons Lane,Mortons Lane,Commissioned,Victoria,Wind,20,-37.83318644,142.4652881
-Woolnorth,Woolnorth Studland Bay / Bluff Point Wind Farm,Commissioned,Tasmania,Wind,140,-40.73637475,144.6948205
+Mt Emerald,Mount Emerald Wind Farm,Commissioned,Queensland,Wind,180,-17.133248,145.380037
 Mt Gellibrand,Mt Gellibrand Wind Farm,Commissioned,Victoria,Wind,137.984,-38.257657,143.798651
 Mt Mercer,Mt Mercer Wind Farm,Commissioned,Victoria,Wind,131,-37.84759262,143.870183
 Mt Millar,Mt Millar Wind Farm,Commissioned,South Australia,Wind,70,-33.6193425,136.7175682
-Mt Piper,Mt Piper Power Station,Commissioned,New South Wales,Black Coal,1400,-33.36071511,150.0356981
-Mt Stuart,Mt Stuart Power Station,Commissioned,Queensland,Distillate,419,-19.3371562,146.851239
-Mugga Lane,Mugga Lane Solar Park,Commissioned,New South Wales,Solar,12,-35.398441,149.14906
 Murra Warra,Murra Warra Wind Farm,Commissioned,Victoria,Wind,231.8,-36.438821,142.246003
-Murray,Murray Power Station,Commissioned,Victoria,Hydro,1500,-36.24599189,148.1885517
+Mt Piper,Mt Piper Power Station,Commissioned,New South Wales,Black Coal,1400,-33.36071511,150.0356981
+Mt Stuart,Mt Stuart Power Station,Commissioned,Queensland,Diesel,419,-19.3371562,146.851239
+Mugga Lane,Mugga Lane Solar Park,Commissioned,New South Wales,Solar,12,-35.398441,149.14906
 Musselroe,Musselroe Wind Farm,Commissioned,Tasmania,Wind,168,-40.77710526,148.0063147
+Murray,Murray Power Station,Commissioned,Victoria,Hydro,1500,-36.24599189,148.1885517
+North Brown Hill,North Brown Hill Wind Farm,Commissioned,South Australia,Wind,132,-33.22811562,138.7168884
 Narromine,Narromine,Commissioned,New South Wales,Solar,10,-32.218323,148.254523
 Newport,Newport Power Station,Commissioned,Victoria,Gas,500,-37.84137425,144.8954786
-North Brown Hill,North Brown Hill Wind Farm,Commissioned,South Australia,Wind,132,-33.22811562,138.7168884
+Oaklands Hill,Oaklands Hill Wind Farm,Commissioned,Victoria,Wind,67,-37.67948099,142.5529949
 Numurkah,Numurkah Solar Farm,Commissioned,Victoria,Solar,112,-36.159275,145.473891
 Nyngan,Nyngan Solar Plant,Commissioned,New South Wales,Solar,102,-31.56319134,147.0741951
 Oakey,Oakey Power Station,Commissioned,Queensland,Gas,282,-27.41820726,151.6788872
 Oakey 1,Oakey 1 Solar Farm,Commissioned,Queensland,Solar,30,-27.402454,151.6425757
-Oaklands Hill,Oaklands Hill Wind Farm,Commissioned,Victoria,Wind,67,-37.67948099,142.5529949
+Portland,Portland Wind Farm,Commissioned,Victoria,Wind,148,-38.36141715,141.3845597
 Oaky Creek,Oaky Creek Power Station,Commissioned,Queensland,Gas,20,-23.048717,148.484462
 Oaky Creek 2,Oaky Creek 2,Commissioned,Queensland,Gas,15,-23.048717,148.484462
 Osborne,Osborne Power Station,Commissioned,South Australia,Gas,180,-34.79769982,138.5080986
@@ -186,16 +186,16 @@ Pelican Point,Pelican Point Power Station,Commissioned,South Australia,Gas,478,-
 Pindari,Pindari,Commissioned,New South Wales,Hydro,6,-29.388034,151.244774
 Mintaro,Mintaro Gas Turbine Station,Commissioned,South Australia,Gas,115,-33.90314861,138.7387972
 Poatina,Poatina Power Station,Commissioned,Tasmania,Hydro,325,-41.80507321,146.9243655
-Port Lincoln,Port Lincoln Gas Turbine,Commissioned,South Australia,Distillate,73,-34.70061601,135.8045305
-Port Stanvac,Pt Stanvac Power Station,Commissioned,South Australia,Distillate,173.6,-35.110345,138.490872
+Port Lincoln,Port Lincoln Gas Turbine,Commissioned,South Australia,Diesel,73,-34.70061601,135.8045305
+Port Stanvac,Pt Stanvac Power Station,Commissioned,South Australia,Diesel,173.6,-35.110345,138.490872
 Pioneer Sugar Mill,Pioneer Sugar Mill,Commissioned,Queensland,Biomass,68,-19.557546,147.330825
 Quarantine,Quarantine Power Station,Commissioned,South Australia,Gas,229,-34.77907369,138.5224545
-The Bluff,The Bluff Wind Farm,Commissioned,South Australia,Wind,52.5,-33.3677405,138.7937899
+Salt Creek,Salt Creek Wind Farm,Commissioned,Victoria,Wind,54,-37.918698,142.796027
 Reece,Reece Power Station,Commissioned,Tasmania,Hydro,232,-41.72313134,145.1364684
 Remount,Remount Power Station,Commissioned,Tasmania,Gas,2,-41.398447,147.1495
 Repulse,Repulse Power Station,Commissioned,Tasmania,Hydro,28,-42.50798689,146.6471698
 Rochedale,Rochedale,Commissioned,Queensland,Gas,4,-27.555798,153.123155
-Rocky Point Co-gen,Rocky Point Co-gen,Commissioned,Queensland,Biomass,30,-27.733564,153.326464
+Rocky Point Co-gen,Rocky Point Cogeneration Plant,Commissioned,Queensland,Biomass,30,-27.733564,153.326464
 Roghan Road,Roghan Road,Commissioned,Queensland,Gas,2,-27.342062,153.049494
 Roma,Roma Gas Turbine Station,Commissioned,Queensland,Gas,80,-26.57678804,148.839485
 Ross River,"Ross River Solar Farm, Units 1-64",Commissioned,Queensland,Solar,128,-19.425305,146.715686
@@ -203,24 +203,24 @@ Rowallan,Rowallan Power Station,Commissioned,Tasmania,Hydro,11,-41.72956983,146.
 Royalla,Royalla Solar Farm,Commissioned,New South Wales,Solar,20,-35.48605246,149.1419657
 Rubicon,Rubicon,Commissioned,Victoria,Hydro,13,-37.29245322,145.8182024
 Rugby Run,Rugby Run Solar Farm,Commissioned,Queensland,Solar,83,-21.940469,147.880877
-Salt Creek,Salt Creek Wind Farm,Commissioned,Victoria,Wind,54,-37.918698,142.796027
 Sapphire,Sapphire Wind Farm,Commissioned,New South Wales,Wind,270,-29.710273,151.44558
+Silverton,Silverton Wind Farm,Commissioned,New South Wales,Wind,198,-31.86095,141.296349
 SCSF,SCSF,Commissioned,Queensland,Solar,15,-26.560799,153.025947
 Shepparton Wastewater Treatment,Shepparton Wastewater Treatment Facility,Commissioned,Victoria,Biomass,1,-36.322223,145.379291
 Shoalhaven,Shoalhaven Power Station (Bendeela And Kangaroo Valley Power Station And Pumps),Commissioned,New South Wales,Hydro,240,-34.73308464,150.4667001
-Silverton,Silverton Wind Farm,Commissioned,New South Wales,Wind,198,-31.86095,141.296349
-Smithfield,Smithfield,Commissioned,New South Wales,Gas,36,-33.85002263,150.9500508
-Snowtown,Snowtown Wind Farm Units 1 And 47,Commissioned,South Australia,Wind,99,-33.69159845,138.1660222
-Snowtown North,Snowtown Wind Farm Stage 2 North,Commissioned,South Australia,Wind,144,-33.75647865,138.1430432
 Snowtown South,Snowtown South Wind Farm,Commissioned,South Australia,Wind,126,-33.86262421,138.1303665
-Snuggery,Snuggery Power Station,Commissioned,South Australia,Distillate,88,-37.66499562,140.4146856
+Smithfield,Smithfield Energy Facility,Commissioned,New South Wales,Gas,36,-33.85002263,150.9500508
+Snowtown North,Snowtown Wind Farm Stage 2 North,Commissioned,South Australia,Wind,144,-33.75647865,138.1430432
+Snowtown,Snowtown Wind Farm Units 1 And 47,Commissioned,South Australia,Wind,99,-33.69159845,138.1660222
+Starfish Hill,Starfish Hill Wind Farm,Commissioned,South Australia,Wind,35,-35.57898296,138.1396531
+Snuggery,Snuggery Power Station,Commissioned,South Australia,Diesel,88,-37.66499562,140.4146856
 Somerton,Somerton Power Station,Commissioned,Victoria,Gas,170,-37.63094866,144.9530983
 South Keswick,South Keswick Solar Farm,Commissioned,New South Wales,Solar,15,-32.27286,148.649836
-Southbank Institute Of Technology,Southbank Institute Of Technology,Commissioned,Queensland,Distillate,1,-27.480589,153.020999
+Southbank Institute Of Technology,Southbank Institute Of Technology,Commissioned,Queensland,Diesel,1,-27.480589,153.020999
 Springvale,Springvale,Commissioned,Victoria,Gas,5,-37.973375,145.139695
-St George Leagues Club,St George Leagues Club,Commissioned,New South Wales,Distillate,1,-33.974819,151.129354
+St George Leagues Club,St George Leagues Club,Commissioned,New South Wales,Diesel,1,-33.974819,151.129354
 Stanwell,Stanwell Power Station,Commissioned,Queensland,Black Coal,1460,-23.50750115,150.3178837
-Starfish Hill,Starfish Hill,Commissioned,South Australia,Wind,35,-35.57898296,138.1396531
+Taralga,Taralga Wind Farm,Commissioned,New South Wales,Wind,106,-34.42538727,149.8596032
 Sun Metals,Sun Metals Solar Farm,Commissioned,Queensland,Solar,117,-19.437318,146.696015
 Susan River,Susan River Solar Farm,Commissioned,Queensland,Solar,85,-25.420275,152.742028
 Swanbank E,Swanbank B Power Station & Swanbank E Gas Turbine,Commissioned,Queensland,Gas,385,-27.65528591,152.8186436
@@ -228,14 +228,14 @@ Tahmoor,Tahmoor,Commissioned,New South Wales,Gas,7,-34.249117,150.577718
 Tailem Bend  1,"Tailem Bend Solar Project 1, Units 1-54",Commissioned,South Australia,Solar,108,-35.28,139.49
 Tallawarra,Tallawarra Power Station,Commissioned,New South Wales,Gas,440,-34.52308945,150.808566
 Tamar Valley,Tamar Valley Combined Cycle Power Station,Commissioned,Tasmania,Gas,208.6,-41.13926795,146.9061848
-Taralga,Taralga Wind Farm,Commissioned,New South Wales,Wind,106,-34.42538727,149.8596032
+The Bluff,The Bluff Wind Farm,Commissioned,South Australia,Wind,52.5,-33.3677405,138.7937899
 Tarong,Tarong Power Station,Commissioned,Queensland,Black Coal,1400,-26.77439673,151.9178376
 Tarong North,Tarong North Power Station,Commissioned,Queensland,Black Coal,443,-26.77439673,151.9178376
 Tarraleah,Tarraleah Power Station,Commissioned,Tasmania,Hydro,90,-42.30173561,146.456661
-Tataria Bordertown,Tataria Bordertown Plant,Commissioned,South Australia,Distillate,1,-36.326977,140.737035
+Tataria Bordertown,Tataria Bordertown Plant,Commissioned,South Australia,Diesel,1,-36.326977,140.737035
 Tatura Biomass,Tatura Biomass,Commissioned,Victoria,Biomass,1,-36.47915,145.235037
-Temporary Generation North,Temporary Generation North,Commissioned,South Australia,Distillate,154,-34.719707,138.668425
-Temporary Generation South,Temporary Generation South,Commissioned,South Australia,Distillate,123,-35.096799,138.483997
+Temporary Generation North,Temporary Generation North,Commissioned,South Australia,Diesel,154,-34.719707,138.668425
+Temporary Generation South,Temporary Generation South,Commissioned,South Australia,Diesel,123,-35.096799,138.483997
 Teralba,Teralba Power Station,Commissioned,New South Wales,Gas,3,-32.945557,151.612042
 Racecourse Mill,Racecourse Mill,Commissioned,Queensland,Biomass,48.5,-21.163842,149.135738
 The Drop,The Drop Power Station,Commissioned,New South Wales,Hydro,3,-35.973527,145.999274
@@ -259,10 +259,10 @@ Waterloo,Waterloo Wind Farm,Commissioned,South Australia,Wind,130,-33.99109527,1
 Wattle Point,Wattle Point Wind Farm,Commissioned,South Australia,Wind,91,-35.11541044,137.7186724
 Waubra,Waubra Wind Farm,Commissioned,Victoria,Wind,192,-37.35797906,143.5926002
 Wemen,"Wemen Solar Farm, Units 1-39",Commissioned,Victoria,Solar,97,-34.80259,142.543348
-West Illawarra Leagues Club,West Illawarra Leagues Club Plant,Commissioned,New South Wales,Distillate,1,-34.451645,150.843037
+West Illawarra Leagues Club,West Illawarra Leagues Club Plant,Commissioned,New South Wales,Diesel,1,-34.451645,150.843037
 West Kiewa,West Kiewa Power Station,Commissioned,Victoria,Hydro,62,-36.75967369,147.1860821
 West Nowra,West Nowra,Commissioned,New South Wales,Gas,1,-34.882318,150.551075
-Western Suburbs League Club,Western Suburbs League Club (Campbelltown) Plant,Commissioned,New South Wales,Distillate,1,-34.051073,150.832757
+Western Suburbs League Club,Western Suburbs League Club (Campbelltown) Plant,Commissioned,New South Wales,Diesel,1,-34.051073,150.832757
 White Rock Solar Farm,White Rock Solar Farm,Commissioned,New South Wales,Solar,22,-29.7632925,151.5502083
 White Rock Wind Farm,White Rock Wind Farm,Commissioned,New South Wales,Wind,175,-29.8291832,151.5453929
 Whitsunday,Whitsunday Solar Farm,Commissioned,Queensland,Solar,57,-20.537259,147.80475
@@ -270,7 +270,7 @@ Whitwood Road,Whitwood Road,Commissioned,Queensland,Gas,1,-27.620454,152.824409
 Wilga Park,Wilga Park Power Station,Commissioned,New South Wales,Gas,10,-30.314444,149.652768
 Wilga Park B,Wilga Park B,Commissioned,New South Wales,Gas,6,-30.314444,149.652768
 Willogoleche,Willogoleche Wind Farm,Commissioned,South Australia,Wind,119,-33.393569,138.84821
-Willoughby,Willoughby,Commissioned,New South Wales,Distillate,3,-33.810858,151.196599
+Willoughby,Willoughby,Commissioned,New South Wales,Diesel,3,-33.810858,151.196599
 Windy Hill,Windy Hill Wind Farm,Commissioned,Queensland,Wind,12,-17.590399,145.52968
 Wingfield 1,Wingfield 1,Commissioned,South Australia,Gas,5,-34.835138,138.548949
 Wingfield 2,Wingfield 2,Commissioned,South Australia,Gas,5,-34.835138,138.548949
@@ -285,11 +285,27 @@ Woy Woy,Woy Woy,Commissioned,New South Wales,Gas,1,-33.506914,151.291606
 Wyangala A,Wyangala A Power Station,Commissioned,New South Wales,Hydro,20,-33.980371,148.947377
 Wyangala B,Wyangala B Power Station,Commissioned,New South Wales,Hydro,4,-33.980371,148.947377
 Yallourn W,Yallourn 'W' Power Station,Commissioned,Victoria,Brown Coal,1480,-38.17759622,146.3475084
+Woolnorth,Woolnorth Studland Bay / Bluff Point Wind Farm,Commissioned,Tasmania,Wind,140,-40.73637475,144.6948205
 Yaloak South,Yaloak South Wind Farm,Commissioned,Victoria,Wind,28,-37.716474,144.241947
-Yambuk,Yambuk,Commissioned,Victoria,Wind,30,-38.30527811,142.0184392
 Yarrawonga,Yarrawonga,Commissioned,Victoria,Hydro,9,-36.009466,145.999568
 Yarwun,Yarwun Power Station,Commissioned,Queensland,Gas,154,-23.83020031,151.1496916
+Yambuk,Yambuk Wind Farm,Commissioned,Victoria,Wind,30,-38.30527811,142.0184392
+Limondale SF,Limondale Solar Farm,Commissioned,New South Wales,Solar,349,-34.7755018,143.5080463
 Yawong,Yawong,Commissioned,Victoria,Wind,7.2,-36.471022,143.361722
-Limondale,Limondale Solar Farm,Commissioned,New South Wales,Solar,349,-34.7755018,143.5080463
-Cattle Hill Wind Farm,Cattle Hill Wind Farm,Commissioned,Tasmania,Wind,144,-42.151,146.688
 Yarranlea Solar Farm,Yarranlea Solar Farm,Commissioned,Queensland,Solar,121,-27.713062,151.52509
+Barker Inlet,Barker Inlet Power Station,Commissioned,South Australia,Gas,211,-34.804,138.524
+Callide C,Callide C Nett Off,Commissioned,Queensland,Black Coal,840,-24.347222,150.608611
+Clermont,Clermont Solar Farm,Commissioned,Queensland,Solar,92,-22.8394058,147.5460307
+Finley,Finley Solar Farm,Commissioned,New South Wales,Solar,162,-35.64421,145.508644
+Yendon,Yendon Wind Farm,Commissioned,Victoria,Wind,144,-37.630952,144.022463
+Grosvenor 1,Grosvenor 1,Commissioned,Queensland,Gas,21,,
+Grosvenor 2,Grosvenor 2,Commissioned,Queensland,Gas,15,,
+Haughton,Hughenden Solar Farm,Commissioned,Queensland,Solar,132,-19.732168,147.076137
+Kemps Creek,Kemps Creek,Commissioned,New South Wales,Bioenergy (Biogas),1,,
+Lake Bonney Bess1,Lake Bonney BESS1,Commissioned,South Australia,Battery (Discharging),25,-37.7387871,140.3846721
+Nevertire,Nevertire Solar Farm,Commissioned,New South Wales,Solar,132,-31.8310438,147.7051778
+Oakey 2,Oakey 2 Solar Farm,Commissioned,Queensland,Solar,65,-27.402454,151.6425757
+Stapylton,Stapylton,Commissioned,Queensland,Bioenergy (Biogas),3,,
+Sunshine Coast,Sunshine Coast,Commissioned,Queensland,Solar,15,-26.560799,153.025947
+Tableland Mill,Tableland Mill,Commissioned,Queensland,Biomass,24,-17.119813,145.34513
+Granville Harbour,Granville Harbour Wind Farm,Commissioned,Tasmania,Wind,111,-41.802,145.056
